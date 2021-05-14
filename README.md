@@ -1,7 +1,8 @@
 # Python_May_2021_Inspire
 Github repo for all Python codes and slides and pdf(s) for Python (May 2021) classes
 
-- 👋 Hello, We are Akash maji & Gopal Patel (Your Instructors)
+## Who & Why & What
+- 👋 Hello, We are Akash Maji & Gopal Patel (Your Instructors)
 - 👀 This 4-week long free python course is brought to you by "INSPIRE CLUB, MANIT, BHOPAL"
 - 🌱 You will find all the course administravia here.
 - 💞️ We are looking forward to help you learn Python :)
