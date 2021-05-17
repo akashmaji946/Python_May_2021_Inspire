@@ -21,3 +21,7 @@ Day-07 | Wed-Day-07 | May-13-2021 [Click Here To Watch](https://us02web.zoom.us/
 Day-08 | Fri-Day-08 | May-14-2021 [Click Here To Watch](https://us02web.zoom.us/rec/share/K3wdHIWL8RadSL3UV9i4yCN7AtY19NoVWJ11CJHEtAcuBQ8AemMT76b6ek3cwbk.0F7v1m1Iz4jFwo8X "Day-08 May-14-2021")<br>
 Day-09 | Sat-Day-09 | May-15-2021 [Click Here To Watch](https://us02web.zoom.us/rec/share/J47P6gAiS7GiFNeINqG9tSPg_rj6Fk7Oqw5Ffg-b1stDGPdFKKCWFX-xz3C0oVID.RTN4K3uL5wP3KT9Y "Day-09 May-15-2021")
 <br>
+### Week 3
+Day-10 | Mon-Day-10 | May-17-2021 [Click Here To Watch](https://us02web.zoom.us/rec/share/tvTKFOc63nviFB4Mda0oHmKYX5Kdv9apivQ_6woMKhwtyw1BFKHiM9CY69kXO2sp._UMewsQUV1JghtH_ "Day-10 May-17-2021")
+<br>
+
