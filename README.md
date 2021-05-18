@@ -24,4 +24,6 @@ Day-09 | Sat-Day-09 | May-15-2021 [Click Here To Watch](https://us02web.zoom.us/
 ### Week 3
 Day-10 | Mon-Day-10 | May-17-2021 [Click Here To Watch](https://us02web.zoom.us/rec/share/tvTKFOc63nviFB4Mda0oHmKYX5Kdv9apivQ_6woMKhwtyw1BFKHiM9CY69kXO2sp._UMewsQUV1JghtH_ "Day-10 May-17-2021")
 <br>
+Day-11 | Tue-Day-11 | May-18-2021 [Click Here To Watch]( "Day-11 May-18-2021")
+<br>
 
