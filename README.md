@@ -33,4 +33,5 @@ Day-12 | Wed-Day-12 | May-19-2021 | [Click Here To Watch](https://us02web.zoom.u
 Day-13 | Thurs-Day-13 | May-20-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/_KpXzbC6gSGkHZuS615bkD2RWjPzg5tF45KR95oqzDuTfMIjs0zdcih5u5qD5L54.NgFtBZaGfNxHQdF2
 "Day-13 May-20-2021")
 <br>
+Day-14 | Fri-Day-14 | May-21-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/Y6MyuaUX0P22EEKxwHEB-tuBrrIiLjtGgVCJxnvM5CLrB7bO0HRCIJmBerxigkQb.HHXjYuFihBglvBVS "Day-14 May-21-2021")
 
