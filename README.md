@@ -8,6 +8,9 @@ Github repo for all Python codes and slides and pdf(s) for Python (May 2021) cla
 - 💞️ We are looking forward to help you learn Python :)
 - 📫 Join telegram group for updates and doubts: Click => [Telegram Group](https://t.me/joinchat/f3qsDY5Xop1iNjBl "INSPIRE TELEGRAM GROUP")
 
+## Unit Test 1 (Inspire Python Course) Result:
+ Inspire Python Course | Unit Test 1 | [Click Here To Open Google Sheets](https://docs.google.com/spreadsheets/d/1D8HgSex-9frYWz09WE0F6dHTvvmlhlEqwDV-TVcMwdA/edit?usp=sharing "Unit Test 1 Report")
+
 ## Links for live session recordings:
 ### Week 1
 Day-01 | Tue-Day-01 | May-04-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/IQ4z4MWy94U5njsofenPrvkvpceTX2zcgRkD8EQYWU7IVGJ1keUdWyTqphn45A2m.7E-ysDv52aun6OzJ "Day-01 May-04-2021")<br>
