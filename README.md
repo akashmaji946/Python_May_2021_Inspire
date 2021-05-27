@@ -10,6 +10,21 @@ Github repo for all Python codes and slides and pdf(s) for Python (May 2021) cla
 
 ## Unit Test 1 (Inspire Python Course) Result:
  Inspire Python Course | Unit Test 1 | [Click Here To Open Google Sheets](https://docs.google.com/spreadsheets/d/1D8HgSex-9frYWz09WE0F6dHTvvmlhlEqwDV-TVcMwdA/edit?usp=sharing "Unit Test 1 Report")
+ 
+ ## Special Sessions
+ Sunday-23-May-2021 | [Click Here To Watch] (https://us02web.zoom.us/rec/share/LQXQbx4I-Sc_olUqDWGCb5Euz_2R5mTRN1VeIByH53R-frokcgHROzjCIRodeB40.7vD6gJMGUKI5BPOJ "Special Session")
+ <br>
+ 
+ ### Change for change sessions
+ 25-May-2021 | Session 1 | Tuesday | [Click Here To Watch] (https://us02web.zoom.us/rec/share/scGnjv5lUUgRkpkOBnyR68DRvUA0GET9CPiE-vpO6wyFT3XylZacHKwECt_RErPA.OANT1z6vnSIgMaUQ)
+ <br>
+ 26-May-2021 | Session 2 | Wednesday | [Click Here To Watch] (https://us02web.zoom.us/rec/share/SQWZ3S0SvO5Tc2MydHy8J9BPD0pVpFMPatEHQWaYMlFuQNBJRE2LtwQ8ca_Qmj-m.XYkC0tHc2DrSZJj7)
+ <br>
+ 27-May-2021 | Session 3 | Thursday | [Click Here To Watch] (https://us02web.zoom.us/rec/share/kI157g-da4sqF7ZgdWz81WR09uexdLIw_jM4U_zMbrJrLzIhkSRjVYvXA4jRNEJo.d4CSneUnke7B9DLH)
+ <br>
+ 
+ <br>
+ 
 
 ## Links for live session recordings:
 ### Week 1
@@ -40,4 +55,5 @@ Day-14 | Fri-Day-14 | May-21-2021 | [Click Here To Watch](https://us02web.zoom.u
 <br>
 ### Week 4
 Day-15 | Mon-Day-15 | May-24-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/a-hDG1gptZj-WgdqmMNPPx7e0ykPPA5FHcZJXzj9QS9NL03IKtwbb2JLzPJKRPJQ.ukouMNDm2-qZNpO- "Day-15 May-24-2021")
+<br>
 
