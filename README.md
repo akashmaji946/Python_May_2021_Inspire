@@ -56,4 +56,9 @@ Day-14 | Fri-Day-14 | May-21-2021 | [Click Here To Watch](https://us02web.zoom.u
 ### Week 4
 Day-15 | Mon-Day-15 | May-24-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/a-hDG1gptZj-WgdqmMNPPx7e0ykPPA5FHcZJXzj9QS9NL03IKtwbb2JLzPJKRPJQ.ukouMNDm2-qZNpO- "Day-15 May-24-2021")
 <br>
+Day-16 | Fri-Day-17 | May-28-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/0WSuqP3poSYzCHNApSwNg28VXvVANNpIyWSUNPusBTzT--N0a1vmMWXekG1YKLzT.qaOFjtjpN69hJx18
+"Day-16 May-28-2021")
+<br>
+Day-17 | Sat-Day-17 | May-29-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/PwAaYzSVIQxe9IfMkUXnTPN5zQ9k7i3m5b3YCl8RB1h_mV9e1FSRZnjtJK89Do1-.ytdmV33OzNVa7ApY "Day-17 May-29-2021")
+<br>
 
