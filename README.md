@@ -15,7 +15,7 @@ Github repo for all Python codes and slides and pdf(s) for Python (May 2021) cla
  Sunday-23-May-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/LQXQbx4I-Sc_olUqDWGCb5Euz_2R5mTRN1VeIByH53R-frokcgHROzjCIRodeB40.7vD6gJMGUKI5BPOJ "Special Session")
  <br>
  
- ### Change for change sessions
+ ### Change For Change Sessions
  25-May-2021 | Session 1 | Tuesday | [Click Here To Watch](https://us02web.zoom.us/rec/share/scGnjv5lUUgRkpkOBnyR68DRvUA0GET9CPiE-vpO6wyFT3XylZacHKwECt_RErPA.OANT1z6vnSIgMaUQ)
  <br>
  26-May-2021 | Session 2 | Wednesday | [Click Here To Watch](https://us02web.zoom.us/rec/share/SQWZ3S0SvO5Tc2MydHy8J9BPD0pVpFMPatEHQWaYMlFuQNBJRE2LtwQ8ca_Qmj-m.XYkC0tHc2DrSZJj7)
@@ -26,7 +26,7 @@ Github repo for all Python codes and slides and pdf(s) for Python (May 2021) cla
  <br>
  
 
-## Links for live session recordings:
+## Python Live Sessions:
 ### Week 1
 Day-01 | Tue-Day-01 | May-04-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/IQ4z4MWy94U5njsofenPrvkvpceTX2zcgRkD8EQYWU7IVGJ1keUdWyTqphn45A2m.7E-ysDv52aun6OzJ "Day-01 May-04-2021")<br>
 Day-02 | Wed-Day-02 | May-05-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/gl44_cHlqCeNMwrTekUK0DPQk6kx72tgMjv-FPcBVNTys0iFtUHjZAUQE4nTlSrC.jcO_LuPPkVSGAOl8 "Day-02 May-05-2021")<br>
@@ -64,3 +64,8 @@ Day-17 | Sat-Day-17 | May-29-2021 | [Click Here To Watch](https://us02web.zoom.u
 Day-18 | Mon-Day-18 | May-31-2021 | [Last Session]
 <br>
 
+<br>
+
+## Special Geeta Sessions
+Day-01 | 1st June 2021 | Tuesday | [Day-1](https://us02web.zoom.us/rec/share/1bXrPn4CeK8bm1h3IRbfbcJSlqQ2fGYhE-Eam7oKAMJn6cRe5-TLRkxX7t57e1g_.dj8vg1cLbrSA2wac) <br>
+Day-02 | 2nd June 2021 | Wednesday | [Day-2](https://us02web.zoom.us/rec/share/1bXrPn4CeK8bm1h3IRbfbcJSlqQ2fGYhE-Eam7oKAMJn6cRe5-TLRkxX7t57e1g_.dj8vg1cLbrSA2wac) <br>
