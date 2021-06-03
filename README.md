@@ -61,4 +61,6 @@ Day-16 | Fri-Day-17 | May-28-2021 | [Click Here To Watch](https://us02web.zoom.u
 <br>
 Day-17 | Sat-Day-17 | May-29-2021 | [Click Here To Watch](https://us02web.zoom.us/rec/share/PwAaYzSVIQxe9IfMkUXnTPN5zQ9k7i3m5b3YCl8RB1h_mV9e1FSRZnjtJK89Do1-.ytdmV33OzNVa7ApY "Day-17 May-29-2021")
 <br>
+Day-18 | Mon-Day-18 | May-31-2021 | [Last Session]
+<br>
 
